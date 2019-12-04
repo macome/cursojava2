@@ -1,6 +1,7 @@
 
 package mz.e.aulas;
-//import.javax.swing.JOptionPane;
+
+import javax.swing.JOptionPane;
 /**
  *
  * @author Aly Macome
@@ -10,7 +11,7 @@ public class OlaMundo {
         
         System.out.println("ola mundo!!");
         
-       // JOptionPane.showMassageDialog(null,"ola Mundo")
+       JOptionPane.showMessageDialog(null, "Ola Mundo");
     }
     
 }
